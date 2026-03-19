@@ -1,5 +1,9 @@
 # Gamma to PDF Scraper
 
+> **⚠️ ARCHIVED — This is v2.**
+>
+> Development continues in **[gamma-to-pdf-live](https://github.com/obivanste/gamma-to-pdf-live)** — the final, actively maintained version.
+
 Converts any public [Gamma.app](https://gamma.app) document into a clean, seamless PDF using a headless Chromium browser.
 
 ## Features
