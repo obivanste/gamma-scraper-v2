@@ -1,0 +1,16 @@
+# Output files
+exports/
+out/
+*.pdf
+landed.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
