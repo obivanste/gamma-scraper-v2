@@ -97,11 +97,11 @@ Known limitations:
 
 ---
 
-### v2 final — this repo
+### v2 — this repo
 
 **Approach:** `page.pdf()` with full DOM removal of UI chrome
 
-Combined the best of both prior versions:
+Combined the best of both prior versions and served as the foundation for the final version. Development has moved to **[gamma-to-pdf-live](https://github.com/obivanste/gamma-to-pdf-live)**.
 
 | Feature | Source |
 |---|---|
@@ -123,7 +123,7 @@ Combined the best of both prior versions:
 ## File Structure
 
 ```
-gamma_scraper_v2/
+gamma-scraper-v2/
 ├── gamma_to_pdf.py   # Main script
 ├── requirements.txt  # Dependencies
 ├── README.md         # This file
